@@ -1,0 +1,22 @@
+{
+  "name": "haterbegone",
+  "version": "1.0.0",
+  "description": "Remove negativity from your social media life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panda01/haterbegone.git"
+  },
+  "author": "Khalah Jones-Golden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panda01/haterbegone/issues"
+  },
+  "homepage": "https://github.com/panda01/haterbegone#readme",
+  "dependencies": {
+    "hapi": "^17.2.0"
+  }
+}
